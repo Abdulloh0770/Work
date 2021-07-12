@@ -1,0 +1,19 @@
+p{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 36px;
+text-align: center;
+color: #35393F;
+}
+h1{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 120px;
+line-height: 110px;
+text-align: center;
+letter-spacing: 2px;
+color: rgba(14, 16, 22, 0.95);
+}
